@@ -1,6 +1,5 @@
 **Dev Containers tutorial**
 Running Visual Studio Code in a Docker container using the Dev Containers extension.
-
 Running VS Code inside a Docker container can be useful for many reasons.
 
 # Prerequisites
